@@ -1,0 +1,19 @@
+
+[Ll]ibrary/
+
+[Tt]emp/
+
+[Oo]bj/
+
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Mm]emoryCaptures/
+UserSettings/
+Packages/com.unity.collab-proxy/
+*.unitypackage
+
+# OS / IDE
+.DS_Store
+.vscode/
+.idea/

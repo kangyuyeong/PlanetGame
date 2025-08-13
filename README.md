@@ -21,6 +21,7 @@
 
 
 ## 스크린샷
+![게임 화면](Assets/Images/screenshot.png)
 
 
 

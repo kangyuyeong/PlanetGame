@@ -21,7 +21,7 @@
 
 
 ## 스크린샷
-![게임 화면](Assets/Images/screenshot.png)
+![게임 화면](Assets/Casual Physics Puzzle BE6/Sprites/동글0.png)
 
 
 

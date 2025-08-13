@@ -20,8 +20,18 @@
   - 5초 이상 닿아 있으면 **모든 행성이 사라지고 게임 종료**
 
 
-## 스크린샷
-![게임 화면](Assets/Casual Physics Puzzle BE6/Sprites/동글0.png)
+## 행성 이미지
+- 아래의 이미지들은 ProCreate를 이용해 직접 제작하였습니다.
+<p>
+  <img src="GamePlay/동글0.png" alt="동글 0" width="100">
+  <img src="GamePlay/동글1.png" alt="동글 1" width="100">
+  <img src="GamePlay/동글2.png" alt="동글 2" width="100">
+  <img src="GamePlay/동글3.png" alt="동글 3" width="100">
+  <img src="GamePlay/동글4.png" alt="동글 4" width="100">
+  <img src="GamePlay/동글5.png" alt="동글 5" width="100">
+  <img src="GamePlay/동글6.png" alt="동글 6" width="100">
+  <img src="GamePlay/동글7.png" alt="동글 7" width="100">
+</p>
 
 
 

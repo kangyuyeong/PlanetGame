@@ -59,8 +59,10 @@
 
 - **Unity**: 2021.x 이상
 - **언어**: C#
+- **이미지 제작**: 아이패드 Procreate
 - **플랫폼**: WebGL (itch.io 업로드), iOS (Xcode 빌드 테스트)
 - **참고 강의**: [골드메탈 Unity 강좌](https://www.youtube.com/watch?v=eQPp0QTz4JM&list=PLO-mt5Iu5TeajtA5UQT7_2UjB7_dkGagU)
+
 
 
 ## 📂 프로젝트 구조

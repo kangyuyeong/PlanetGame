@@ -45,19 +45,19 @@
 - **참고 강의**: [골드메탈 Unity 강좌](https://www.youtube.com/watch?v=eQPp0QTz4JM&list=PLO-mt5Iu5TeajtA5UQT7_2UjB7_dkGagU)
 
 
-## 프로젝트 구조
-## 프로젝트 구조
+## 📂 프로젝트 구조
+```plaintext
 PlanetGame
-- Assets/
-- ├── Scripts/
-- │ ├── Dongle.cs # 행성 개별 동작 제어
-- │ └── GameManager.cs # 전체 게임 로직, 점수/오브젝트 관리
-- ├── Sprites/ # 행성, UI, 효과 이미지
-- ├── Prefabs/ # Dongle prefab, Effect prefab
-- ├── Scenes/
-- │ └── Main.unity
-- └── Audio/ # 사운드 효과 파일
--── README.md
+├── Assets/
+│   ├── Scripts/
+│   │   ├── Dongle.cs         # 행성 개별 동작 제어
+│   │   └── GameManager.cs    # 전체 게임 로직, 점수/오브젝트 관리
+│   ├── Sprites/              # 행성, UI, 효과 이미지
+│   ├── Prefabs/              # Dongle prefab, Effect prefab
+│   ├── Scenes/
+│   │   └── Main.unity
+│   └── Audio/                # 사운드 효과 파일
+└── README.md
 
 
 ## 핵심 스크립트

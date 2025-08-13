@@ -21,7 +21,16 @@
 
 
 ## 스크린샷
-<img src="GamePlay/동글0.png" alt="게임 화면" width="300">
+<p>
+  <img src="GamePlay/동글0.png" alt="동글 0" width="100">
+  <img src="GamePlay/동글1.png" alt="동글 1" width="100">
+  <img src="GamePlay/동글2.png" alt="동글 2" width="100">
+  <img src="GamePlay/동글3.png" alt="동글 3" width="100">
+  <img src="GamePlay/동글4.png" alt="동글 4" width="100">
+  <img src="GamePlay/동글5.png" alt="동글 5" width="100">
+  <img src="GamePlay/동글6.png" alt="동글 6" width="100">
+  <img src="GamePlay/동글7.png" alt="동글 7" width="100">
+</p>
 
 
 

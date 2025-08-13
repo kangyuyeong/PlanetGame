@@ -46,9 +46,9 @@
 
 
 ## 프로젝트 구조
-PlanetGame/
-├── Assets/
-│ ├── Scripts/
+PlanetGame/\n
+├── Assets/\n
+│ ├── Scripts/\n
 │ │ ├── Dongle.cs # 행성 개별 동작 제어
 │ │ └── GameManager.cs # 전체 게임 로직, 점수/오브젝트 관리
 │ ├── Sprites/ # 행성, UI, 효과 이미지

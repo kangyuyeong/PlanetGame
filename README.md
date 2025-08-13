@@ -21,7 +21,7 @@
 
 
 ## 스크린샷
-![게임 화면](GamePlay/동글0.png)
+<img src="GamePlay/동글0.png" alt="게임 화면" width="300">
 
 
 

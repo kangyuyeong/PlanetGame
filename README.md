@@ -36,11 +36,11 @@
 
 ## 게임 플레이 스크린샷
 <p>
-  <img src="GamePlay/screen_gamestart.png" alt="동글 0" width="100">
-  <img src="GamePlay/screen_gameover.png" alt="동글 1" width="100">
-  <img src="GamePlay/screen_play1.png" alt="동글 2" width="100">
-  <img src="GamePlay/screen_play2.png" alt="동글 3" width="100">
-  <img src="GamePlay/screen_play3.png" alt="동글 4" width="100">
+  <img src="GamePlay/screen_gamestart.png" alt="동글 0" width="150">
+  <img src="GamePlay/screen_gameover.png" alt="동글 1" width="150">
+  <img src="GamePlay/screen_play1.png" alt="동글 2" width="150">
+  <img src="GamePlay/screen_play2.png" alt="동글 3" width="150">
+  <img src="GamePlay/screen_play3.png" alt="동글 4" width="150">
 </p>
 
 ## 주요 기능

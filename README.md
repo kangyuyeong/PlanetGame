@@ -20,7 +20,8 @@
   - 5초 이상 닿아 있으면 **모든 행성이 사라지고 게임 종료**
 
 
-## 스크린샷
+## 행성 이미지
+- 아래의 이미지들은 ProCreate를 이용해 직접 제작하였습니다.
 <p>
   <img src="GamePlay/동글0.png" alt="동글 0" width="100">
   <img src="GamePlay/동글1.png" alt="동글 1" width="100">
